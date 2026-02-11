@@ -1,4 +1,4 @@
-# The Lion and the Mouse - React Static Page
+# The Lion and the Mouse: React Static Page
 
 This project is a simple React application that displays the story
 "The Lion and the Mouse" using reusable components.
